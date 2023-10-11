@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AboJoan
-- 👀 I’m interested in Metagenomes, Human genetics, Pharmacogenomics  
+- 👀 I’m interested in Metagenomes, Human genetics, Pharmacogenomics and CRISPR 
 - 🌱 I’m currently learning Bioinformatics and Data Sciecne (Viral genome)
 - 💞️ I’m looking to collaborate on Metagenomes 
 - 📫 How to reach me by Email
